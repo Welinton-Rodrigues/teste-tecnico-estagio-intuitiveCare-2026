@@ -1,0 +1,4 @@
+# dados e arquivos grandes
+data/
+*.csv
+*.zip
